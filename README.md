@@ -1,3 +1,4 @@
-# PlayingWithMongo Github Repo
+PlayingWithMongo Github Repo
+===========================
 
-** Trying out Mongo DB Java API **
+**Trying out Mongo DB Java API**
